@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972876170506",
+    "project_id": "pusaka-bijak-30043",
+    "storage_bucket": "pusaka-bijak-30043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972876170506:android:6992504653eacdfd1c26f3",
+        "android_client_info": {
+          "package_name": "com.example.login2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972876170506-ktgnclno91e5m9ta0ri5dc2k31jf01kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login2",
+            "certificate_hash": "8af5204e1d7d0f87ed6bb0a309d3bc93f8a872f6"
+          }
+        },
+        {
+          "client_id": "972876170506-7q87sp6pp2bftrnekqk1b63k2q3dbbff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKRuQV-LrlqdJirpTjpcNsmv-xEXD9hYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972876170506-7q87sp6pp2bftrnekqk1b63k2q3dbbff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
